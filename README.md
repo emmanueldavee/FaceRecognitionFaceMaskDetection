@@ -21,5 +21,5 @@ In the future, I would like to conduct further research to optimize the face rec
 
 A short example of how the system works is shown below. Feel free to email me at emmanuel.dave02@gmail.com to request for the full demo or even to ask for further details regarding this project. 
 
-![Demo with Mask](https://github.com/emmanueldavee/FaceRecognitionFaceMaskDetection/blob/master/demo1.png | width=100)
+<img src="https://github.com/emmanueldavee/FaceRecognitionFaceMaskDetection/blob/master/demo1.png" width="100" alt="Demo with Mask">
 ![Demo without Mask](https://github.com/emmanueldavee/FaceRecognitionFaceMaskDetection/blob/master/demo2.png | width=100)
