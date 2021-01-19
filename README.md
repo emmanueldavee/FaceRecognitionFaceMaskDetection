@@ -19,5 +19,7 @@ The face detection used are haarcascade classifier and OpenCV's DNN Caffe Model.
 
 In the future, I would like to conduct further research to optimize the face recognition model. As of now, the face recognition model is too sensitive towards environmental changes, such as lighting, movements, angle and more. In addition, I haven't tested the model in identifying multiple faces in real time yet and whether the system is able to differentiate identical twins or not. 
 
-A short example of how the system works is shown below. Feel free to email me at emmanuel.dave02@gmail.com for further details regarding this project. 
+A short example of how the system works is shown below. Feel free to email me at emmanuel.dave02@gmail.com to request for the full demo or even to ask for further details regarding this project. 
+
+![Demo without Mask]https://github.com/emmanueldavee/FaceRecognitionFaceMaskDetection/blob/master/demo1.png
 
